@@ -1,4 +1,4 @@
-# robotics-project
+# Project for Fundamentals of Robotics' course
 
-## SOURCES:
-- https://github.com/SadhaSivamx/StereoVision.git
+### Sources:
+- StereoVision: https://github.com/SadhaSivamx/StereoVision.git
